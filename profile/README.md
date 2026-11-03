@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Focus-Indie_Games-6f42c1?style=flat-square" alt="Indie Games">
   <img src="https://img.shields.io/badge/Platform-Steam-1b2838?style=flat-square&logo=steam&logoColor=white" alt="Steam">
   <img src="https://img.shields.io/badge/Community-LGBTQ%2B_%26_Furry-ff69b4?style=flat-square" alt="LGBTQ+ and Furry">
+  <img src="https://img.shields.io/badge/Recruiting-Open_Roles-brightgreen?style=flat-square" alt="Open Roles">
   <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" alt="Status: In Development">
 </p>
 
@@ -34,6 +35,18 @@ Our studio celebrates diversity, creative freedom, and authentic community conne
 
 ---
 
+## 🤝 Join the Team — We Are Looking For Talent!
+
+We are actively expanding our indie team and looking for passionate creators to collaborate on upcoming Steam titles:
+
+- 🎨 **2D Artists & Illustrators** — Character designers, visual novel sprite artists, CG illustrators, and promotional artists.
+- 🧊 **3D Modelers & Texture Artists** — Stylized 3D character modeling, environment props, and texturing.
+- 💻 **Game Programmers** — Gameplay mechanics, puzzle logic, narrative engines, and Steamworks integration.
+
+👉 **Read full role descriptions, requirements, and how to apply in our [Join Us Guide](https://github.com/AfterPaw/.github/blob/main/JOIN_US.md).**
+
+---
+
 ## 🏢 Central Organization Hub
 
 This organization serves as AfterPaw's official development and open-collaboration space. Across our repositories, you will find:
@@ -55,6 +68,7 @@ We strive to connect with a worldwide player base through self-publishing, playe
 
 ## 📬 Connect & Follow
 
+- 📄 **Join the Team:** [Open Roles & Contact](https://github.com/AfterPaw/.github/blob/main/JOIN_US.md)
 - 🎮 **Steam Developer Page:** *(Coming Soon)*
 - 🌐 **Official Website:** *(Coming Soon)*
 - 💬 **Discord Community:** *(Coming Soon)*
@@ -65,4 +79,3 @@ We strive to connect with a worldwide player base through self-publishing, playe
 <p align="center">
   🐾 <strong>AfterPaw Studio</strong> · Independent Development · Creative Freedom · Unique Experiences
 </p>
-
