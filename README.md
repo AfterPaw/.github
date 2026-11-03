@@ -1,46 +1,68 @@
-# 🎮 Independent Game Development Studio
+# 🐾 Welcome to AfterPaw
 
-Welcome to our independent game development studio!
+<p align="center">
+  <strong>Independent Game Development Studio</strong><br>
+  Crafting distinctive, story-rich experiences and engaging puzzle games for niche communities.
+</p>
 
-We are an indie game studio focused on **developing and publishing original games on Steam**, combining creativity, storytelling, and unique gameplay experiences for niche audiences.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Indie_Games-6f42c1?style=flat-square" alt="Indie Games">
+  <img src="https://img.shields.io/badge/Platform-Steam-1b2838?style=flat-square&logo=steam&logoColor=white" alt="Steam">
+  <img src="https://img.shields.io/badge/Community-LGBTQ%2B_%26_Furry-ff69b4?style=flat-square" alt="LGBTQ+ and Furry">
+  <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" alt="Status: In Development">
+</p>
 
-## 🕹️ What We Do
+---
 
-Our main development areas include:
+## 🕹️ About AfterPaw
 
-- 🧩 **Puzzle Games** — Creative and engaging puzzle experiences with unique mechanics and challenges.
-- 📖 **Visual Novels** — Story-driven experiences featuring original characters, narratives, and meaningful choices.
+**AfterPaw** is an independent game development studio dedicated to creating and publishing original titles on **Steam**. We combine compelling storytelling, expressive art, and thoughtful gameplay mechanics tailored for vibrant niche audiences.
 
-## 🏳️‍🌈 Our Audience & Identity
+### 🎮 What We Create
 
-Our games are primarily aimed at **LGBTQ+ audiences**, with a particular interest in furry culture, diverse characters, and creative storytelling.
+- 🧩 **Puzzle Games** — Engaging, clever puzzle mechanics paired with rewarding progression and artistic flair.
+- 📖 **Visual Novels** — Narrative-driven journeys featuring rich world-building, original character designs, and impactful branching choices.
 
-Our projects may also explore adult-oriented themes and NSFW content, always with a focus on artistic expression and the communities we create for.
+---
 
-## 💻 GitHub Organization
+## 🏳️‍🌈 Identity & Creative Direction
 
-This GitHub organization serves as our central development hub.
+Our studio celebrates diversity, creative freedom, and authentic community connections:
 
-Here, we share information and documentation related to our projects, including:
+- **LGBTQ+ & Furry Culture:** Our projects are proudly aimed at LGBTQ+ players and the furry community, highlighting diverse casts, inclusive themes, and unique subcultural perspectives.
+- **Mature & Adult Themes:** Certain titles explore mature or NSFW narratives with a strong emphasis on artistic expression, emotional depth, and safe community spaces.
 
-- 📝 Development notes and progress updates.
-- 🚀 Details about upcoming and future projects.
-- 📚 Technical documentation and project information.
-- 🛠️ Development resources, tools, and experiments.
-- 📢 Announcements and important updates.
+---
 
-## 🚀 Publishing Platform
+## 🏢 Central Organization Hub
 
-Our primary publishing platform is **Steam**.
+This organization serves as AfterPaw's official development and open-collaboration space. Across our repositories, you will find:
 
-We aim to bring our games to a global audience through independent development and digital distribution, continuously exploring new ideas and opportunities.
+- 📝 **Project Roadmaps & Updates** — Development logs, milestone tracking, and progress updates.
+- 📚 **Documentation & Specs** — Technical notes, game design documents (GDD), and architecture overviews.
+- 🛠️ **Tools & Experiments** — Custom game engine scripts, prototypes, shaders, and workflow automations.
+- 📢 **Announcements** — Release dates, playtesting calls, and publishing announcements.
 
-## 🔧 Development Status
+---
 
-Our projects are currently **under development**. New information, development notes, and project announcements will be published in this organization as work progresses.
+## 🚀 Publishing & Distribution
+
+Our primary target storefront is **Steam**, alongside select releases on itch.io and indie-friendly digital platforms.
+
+We strive to connect with a worldwide player base through self-publishing, player feedback, and continuous community involvement.
+
+---
+
+## 📬 Connect & Follow
+
+- 🎮 **Steam Developer Page:** *(Coming Soon)*
+- 🌐 **Official Website:** *(Coming Soon)*
+- 💬 **Discord Community:** *(Coming Soon)*
+- 🐦 **Social Media:** *(Coming Soon)*
 
 ---
 
 <p align="center">
-  🎮 Independent Development · 🌈 Creative Freedom · 🧩 Unique Experiences
+  🐾 <strong>AfterPaw Studio</strong> · Independent Development · Creative Freedom · Unique Experiences
 </p>
+
